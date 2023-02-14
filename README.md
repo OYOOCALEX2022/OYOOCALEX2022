@@ -6,7 +6,7 @@ An Aspiring Software Engineer
 
 I enjoy codes. I'm open to learning and improvement. Currently I'm learning JavaScript.
 
-*   🌍  I'm based in Nairobi.
+*   🌍  I'm based in Nairobi. Currently working on an exciting book store Web Application Project.
 *   ✉️  You can contact me at [calexoyoo400@gmail.com](mailto:calexoyoo400@gmail.com)
 *   🧠  I'm learning JavaScript<a href="https://www.twitter.com/calex_oyoo" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/calex_oyoo"logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
