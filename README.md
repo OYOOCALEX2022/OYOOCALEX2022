@@ -43,8 +43,7 @@ I enjoy codes. I'm open to learning and improvement.I'm learning JavaScript.
                                         src="https://camo.githubusercontent.com/db6216e753f5287689b952a616af0ef5ea26e9173722ee8e6d9b4f041c6bff5e/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3931392f3931393832352e706e67"
                                         alt="NodeJs">
  
- 
-                 <img style="height: 60px; width: 60px; padding: -50%;"
+ <img style="height: 60px; width: 60px; padding: -50%;"
                                         src="https://camo.githubusercontent.com/d322af45a4be538f9e043476e813350c5cf9500d53a309c117b69c47549cbd4a/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f343439342f343439343734382e706e67"
                                         alt="Git">
   
