@@ -47,15 +47,6 @@ I enjoy codes. I'm open to learning and improvement.I'm learning JavaScript.
                                         src="https://camo.githubusercontent.com/d322af45a4be538f9e043476e813350c5cf9500d53a309c117b69c47549cbd4a/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f343439342f343439343734382e706e67"
                                         alt="Git">
   
- <h2><b>Socials<b></h2>
-  
- <p align="left">
-                          
-                      
-                          
-                      <a href="https://github.com/OYOOCALEX2022"> target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                    <a href="<a href="https://www.linkedin.com/in/calex-oyoo-65b1a3213/">" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-              <a href="https://twitter.com/calex_oyoo/"> target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges
 
+  
+ 
