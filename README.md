@@ -4,13 +4,13 @@ Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-078
 An Upcoming Software Engineer.
 -----------------------------
 
-I enjoy codes. I'm open to learning and improvement.I'm learning JavaScript.
+I enjoy codes. I'm open to learning and improvement. I'm learning JavaScript.
 
 *   🌍  I'm based in Nairobi. Currently working on an exciting Book Store Web Application Project.
 *   
 *   ✉️  You can contact me at [calexoyoo400@gmail.com](mailto:calexoyoo400@gmail.com)
 *   
-*   🧠  I'm learning JavaScript
+*   🧠  I'm currently learning Full Stack Web Development.
 
  <h2><b>Skills<b></h2>
  
