@@ -39,7 +39,7 @@ I enjoy codes. I'm open to learning and improvement.I'm learning JavaScript.
                                         src="https://camo.githubusercontent.com/e8c46b756f003914a8cc30b1f040904517b88295473dca8ff3cfcc255ad90744/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3931392f3931393835312e706e67"
                                         alt="ReactJs">
  
-                 <img style="height: 60px; width: 60px; padding: -50%;"
+  <img style="height: 60px; width: 60px; padding: -50%;"
                                         src="https://camo.githubusercontent.com/db6216e753f5287689b952a616af0ef5ea26e9173722ee8e6d9b4f041c6bff5e/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3931392f3931393832352e706e67"
                                         alt="NodeJs">
  
