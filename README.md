@@ -4,7 +4,7 @@ Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-078
 An Upcoming Software Engineer.
 -----------------------------
 
-I enjoy codes. I'm open to learning and improvement. I'm learning a Full Stack Web Development.
+I enjoy codes. I'm open to learning and improvement. I'm learning Full Stack Web Development.
 
 *   🌍  I'm based in Nairobi. Currently working on an exciting Book Store Web Application Project.
 *   
