@@ -49,24 +49,13 @@ I enjoy codes. I'm open to learning and improvement.I'm learning JavaScript.
   
  <h2><b>Socials<b></h2>
   
-  
-   <p align="left">
- <a href="https://twitter.com/calex_oyoo/">
-                            <div class="icon"><i class="fa fa-brands fa-twitter"></i></div>                            
-                                <h4>Twitter</h4>
-                  
-                  
-                <p align="left">
+ <p align="left">
                           
-                      <a href="https://www.facebook.com/calex oyoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+                      
                           
-                      <a href="https://www.github.com/OYOOCALEX2022" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                      <a href="https://github.com/OYOOCALEX2022"> target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
-                      <a href="http://www.instagram.com/calex_oyoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                    <a href="<a href="https://www.linkedin.com/in/calex-oyoo-65b1a3213/">" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
-                      <a href="<a href="https://www.linkedin.com/in/calex-oyoo-65b1a3213/">" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/calex oyoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/calex_oyoo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges
+              <a href="https://twitter.com/calex_oyoo/"> target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges
 
