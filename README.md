@@ -1,10 +1,8 @@
 Hello World ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Oyoo Calex. An upcoming Software Engineer. I enjoy codes. I'm open to learning and improvement.
 ==================================================================================================================================
 
-An Upcoming Software Engineer.
+I'm currently learning Full Stack Web Development.
 -----------------------------
-
-I enjoy codes. I'm open to learning and improvement. Currently learning Full Stack Web Development.
 
 *   🌍  I'm based in Nairobi. Currently working on an exciting Book Store Web Application Project.
 
