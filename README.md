@@ -12,7 +12,7 @@ I'm currently learning Javascript.
   
   
    
-*   🧠  I'm currently learning Full Stack Web Development.
+*   🧠  Pursuing Full Stack Web Development.
 
  <h2><b>Skills<b></h2>
  
