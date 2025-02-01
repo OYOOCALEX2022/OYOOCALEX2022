@@ -8,7 +8,7 @@ Hello World! [](https://user-images.githubusercontent.com/18350557/176309783-078
    
 *   ✉️  You can contact me at [calexoyoo400@gmail.com](mailto:calexoyoo400@gmail.com)
 
- <h2><b>Skills<b></h2>
+ <h2><b>Top Technologies<b></h2>
  
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
