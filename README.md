@@ -11,9 +11,9 @@ Hello World! [](https://user-images.githubusercontent.com/18350557/176309783-078
  <h2><b>Skills<b></h2>
  
 <p align="left">
-<src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img
-  <img style="height: 60px; width: 60px; padding: -50%;"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  
+<img style="height: 60px; width: 60px; padding: -50%;"
                                         src="https://camo.githubusercontent.com/19245ec17eda7364486b88211a4f9893001661c78d384430843df7584f30ec4e/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3733322f3733323139302e706e67"
                                         alt="CSS3">
   
