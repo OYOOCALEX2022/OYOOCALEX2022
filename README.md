@@ -2,7 +2,7 @@ Hello World! [](https://user-images.githubusercontent.com/18350557/176309783-078
 ================================================================================================================================
 -----------------------------
 
-*   🌍  I'm based in Nairobi. Currently working on an exciting Book Store Web Application Project.
+*   🌍  I'm based in Nairobi. Currently heavy on cloud computing 
 
 
    
