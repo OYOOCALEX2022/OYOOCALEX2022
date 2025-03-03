@@ -2,7 +2,7 @@ Hello World! [](https://user-images.githubusercontent.com/18350557/176309783-078
 ================================================================================================================================
 -----------------------------
 
-*   🌍  I'm based in Nairobi. I'm currently diving deep into cloud computing.
+*   🌍  I'm based in Nairobi. Currently diving deep into cloud computing.
 
 
    
